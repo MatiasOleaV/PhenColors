@@ -2,13 +2,10 @@
 #' @name PhenColors
 #' @description Paleta de color Figuras fenologia LabGRS
 #' @author  Matias Olea
+#' @param p Vector de texto con nombre de la Paleta: c("Phen3", "Phen5", "VIloss4", "VIloss6,
+#' "VIloss8", "VIgain4", "VIgain6, "VIgain8", "Extreme5", "Extreme7", "Extreme9", "RFD", "ColorBlind5",
+#' "ColorBlind7", "ColorBlind9", "NaQa", "NaNX")
 
-#' @examples # Probar la rampa
-#' \donttest{
-#' library(PhenColors)
-#' color <- PhenColors("Extreme5")
-#' barplot(rep(1, length(color)), names.arg = color, col = color)
-#' }
 #' @seealso \url{https://drive.google.com/file/d/1STe-xykrX-JQaT8u6gsSpAojIlQI-mxB/view}.
 
 #' @export
