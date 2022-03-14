@@ -3,6 +3,7 @@
 #' @description Paleta de color Figuras fenologia LabGRS
 #' @author  Matias Olea
 #' @param p Nombre de la Paleta
+#' @seealso \code{\link{https://drive.google.com/file/d/1STe-xykrX-JQaT8u6gsSpAojIlQI-mxB/view?usp=sharing}}
 #' @export
 PhenColors <- function(p){
   ##Phenology
