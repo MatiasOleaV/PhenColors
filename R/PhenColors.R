@@ -1,3 +1,4 @@
+#' @export
 PhenColors <- function(p){
   ##Phenology
   if(p == "Phen3"){return(c("#f8f505","#4fa600","#005500"))}
