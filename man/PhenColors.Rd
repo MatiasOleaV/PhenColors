@@ -16,7 +16,7 @@ VIloss8","VIgain4","VIgain6,"VIgain8","Extreme5","Extreme7","Extreme9","RFD","Co
 Paleta de color Figuras fenologia LabGRS
 }
 \seealso{
-
+\url{https://drive.google.com/file/d/1STe-xykrX-JQaT8u6gsSpAojIlQI-mxB/view}.
 }
 \author{
 Matias Olea
