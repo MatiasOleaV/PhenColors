@@ -13,7 +13,7 @@ PhenColors(p)
 Paleta de color Figuras fenologia LabGRS
 }
 \seealso{
-\code{\link{https://drive.google.com/file/d/1STe-xykrX-JQaT8u6gsSpAojIlQI-mxB/view?usp=sharing}}
+\url{https://drive.google.com/file/d/1STe-xykrX-JQaT8u6gsSpAojIlQI-mxB/view}.
 }
 \author{
 Matias Olea
