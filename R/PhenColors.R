@@ -6,8 +6,7 @@
 #' VIloss8","VIgain4","VIgain6,"VIgain8","Extreme5","Extreme7","Extreme9","RFD","ColorBlind5",
 #' "ColorBlind7,"ColorBlind9",
 #' "NaQa","NaNX")
-#' @examples
-#' # Probar la rampa
+#' @examples # Probar la rampa
 #' # library(PhenColors)
 #' # color <- PhenColors("Extreme5")
 #' # barplot(rep(1, length(color)), names.arg = color, col = color)
