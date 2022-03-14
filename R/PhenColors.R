@@ -7,10 +7,9 @@
 #' "ColorBlind7,"ColorBlind9",
 #' "NaQa","NaNX")
 #' @examples
-#' #' { ## Probar la rampa
+#' # Probar la rampa
 #' color <- PhenColors("Extreme5")
 #' barplot(rep(1, length(color)), names.arg = color, col = color)
-#' }
 #' @seealso \url{https://drive.google.com/file/d/1STe-xykrX-JQaT8u6gsSpAojIlQI-mxB/view}.
 
 #' @export
