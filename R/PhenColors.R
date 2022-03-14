@@ -1,3 +1,8 @@
+#' @title PhenColors
+#' @name PhenColors
+#' @description Paleta de color Figuras fenologia LabGRS
+#' @author  Matias Olea
+#' @param p Nombre de la Paleta
 #' @export
 PhenColors <- function(p){
   ##Phenology
