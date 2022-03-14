@@ -8,7 +8,8 @@ PhenColors(p)
 }
 \arguments{
 \item{p}{Vector de texto con Nombre de la Paleta p.e. c("Phen3","Phen5","VIloss4","VIloss6,"
-VIloss8","VIgain4","VIgain6,"VIgain8","Extreme5","Extreme7","Extreme9","RFD","ColorBlind5","ColorBlind7,"ColorBlind9",
+VIloss8","VIgain4","VIgain6,"VIgain8","Extreme5","Extreme7","Extreme9","RFD","ColorBlind5",
+"ColorBlind7,"ColorBlind9",
 "NaQa","NaNX")}
 }
 \description{
